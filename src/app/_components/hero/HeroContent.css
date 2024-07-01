@@ -1,0 +1,4 @@
+.scroll-none::-webkit-scrollbar {
+  width: 0 !important; /* Oculta la barra de scroll horizontal */
+  height: 0 !important; /* Oculta la barra de scroll vertical */
+}
